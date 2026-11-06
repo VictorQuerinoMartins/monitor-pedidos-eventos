@@ -1,0 +1,1 @@
+// Escuta PedidoCriado, simula o preparo (async/await) e dispara PreparoIniciado e PedidoPronto.

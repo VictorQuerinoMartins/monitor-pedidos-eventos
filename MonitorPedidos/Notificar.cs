@@ -1,0 +1,1 @@
+// Escuta os eventos e avisa o cliente via callback (Action<string>).

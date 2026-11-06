@@ -1,0 +1,1 @@
+// Cria os objetos, liga as assinaturas (+=) e dispara pedidos.

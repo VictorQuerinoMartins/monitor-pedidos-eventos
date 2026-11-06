@@ -1,0 +1,1 @@
+// Publicador: cria o pedido e dispara PedidoCriado. Não conhece ninguém (evento síncrono).

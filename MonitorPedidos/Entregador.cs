@@ -1,0 +1,1 @@
+// Escuta PedidoPronto, simula a entrega (async) e dispara SaiuParaEntrega e PedidoEntregue.

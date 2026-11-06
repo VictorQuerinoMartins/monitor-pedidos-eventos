@@ -1,0 +1,1 @@
+// Escuta PedidoCriado, baixa o saldo e dispara EstoqueBaixo no limite.
